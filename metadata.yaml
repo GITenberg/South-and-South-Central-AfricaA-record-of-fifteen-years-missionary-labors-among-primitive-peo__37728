@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39013'
     url: http://www.gutenberg.org/2009/agents/39013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37728#South-and-South-Central-AfricaA-record-of-fifteen-years-missionary-labors-among-primitive-peo_
 gutenberg_issued: '2011-10-11'
 gutenberg_type: Text
 identifiers:
